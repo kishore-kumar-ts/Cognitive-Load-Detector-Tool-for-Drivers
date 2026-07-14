@@ -1,0 +1,5 @@
+{
+  "name": "AI-Based Driver Cognitive Load Detection System",
+  "description": "A real-time safety system that monitors driver cognitive load using facial analysis, steering behavior, and biometric estimation to provide adaptive alerts.",
+  "requestFramePermissions": ["camera"]
+}
